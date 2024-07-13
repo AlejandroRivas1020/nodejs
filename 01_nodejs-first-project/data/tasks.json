@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Cambiar aceite carro",
+    "description": "Ir al taller y realizar cambio de aceite"
+  },
+  {
+    "id": 2,
+    "title": "Lavar Ropa",
+    "description": "Preparar la ropa, configurar la lavadora y encender"
+  }
+]
